@@ -4,7 +4,7 @@ clear
 echo "1)Add User"
 echo "2)Remove User"
 echo "3)Update Pass"
-echo "4(List All Users"
+echo "4)List All Users"
 echo "5)Exit"
 while true;do
 	read ch
